@@ -14,7 +14,8 @@ public class MartinSerrano_Daponte_III {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Daponte.imprimeMensaje();
+        MartinSerrano.division_numeros();
     }
     
 }
